@@ -1,1 +1,1 @@
-# Linear Regression with Gradient Descent Algorithm
+# Linear Regression with Gradient Descent Algorithm on Random Generated Data
