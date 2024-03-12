@@ -1,2 +1,2 @@
 # MLT_CIA-1
-Linear Regression with Gradient Descent Algorithm on Random Generated Data
+White box Linear Regression with Gradient Descent Algorithm on Random Generated Data
